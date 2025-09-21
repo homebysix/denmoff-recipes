@@ -21,7 +21,7 @@
             <key>Arguments</key>
             <dict>
                 <key>url</key>
-                <string>http://twinery.org</string>
+                <string>https://twinery.org</string>
                 <key>re_pattern</key>
                 <string>a href=\"(/downloads/twine_1.4.2_osx.zip)</string>
             </dict>
@@ -32,7 +32,7 @@
         	<key>Arguments</key>
         	<dict>
         	   <key>url</key>
-        	   <string>http://twinery.org%match%</string>
+        	   <string>https://twinery.org%match%</string>
         	   <key>filename</key>
         	   <string>%NAME%.zip</string>
         	</dict>
